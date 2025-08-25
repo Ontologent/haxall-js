@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "checkJs": false,            // set true if you want JS type-checking from JSDoc
+    "declaration": false,
+    "skipLibCheck": true,
+  },
+  "include": ["esm/**/*.d.ts"],
+  "exclude": ["esm/hxSedona.d.ts", "esm/graphicsJava.d.ts"]  // prevent TS from parsing these
+
+}

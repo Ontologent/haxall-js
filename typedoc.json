@@ -1,0 +1,14 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "entryPoints": ["esm/**/*.d.ts"],
+  "out": "docs",
+  "tsconfig": "tsconfig.json",
+  "exclude": ["esm/hxSedona.d.ts", "esm/graphicsJava.d.ts"],
+  "logLevel": "Verbose",
+  "excludeProtected": false,
+  "excludeInternal": true,
+  "excludePrivate": false,
+  "compilerOptions": {
+    "skipLibCheck": true
+  }
+}
