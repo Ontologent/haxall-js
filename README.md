@@ -1,10 +1,10 @@
 # README #
 
+## Info ## 
+This is a copy of the haxall npm repo, plus docs generated via typedoc. 
+
+Explore them here 
+
 ## Overview ##
-This module contains a javascript build of the Haxall code base. In particular,
-it contains a tool for running the Xeto CLI. When the package is installed
-it makes a `xeto` script available in your PATH:
+This module contains a javascript build of the Haxall code base. 
 
-    $> xeto -help
-
-# haxall-js
