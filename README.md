@@ -8,3 +8,4 @@ Explore them here
 ## Overview ##
 This module contains a javascript build of the Haxall code base. 
 
+[Link To Docs](https://ontologent.github.io/haxall-js/)
